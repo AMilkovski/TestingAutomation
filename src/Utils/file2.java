@@ -6,4 +6,6 @@ public class file2 {
 
     // another random file...
 
+    // more line
+
 }
